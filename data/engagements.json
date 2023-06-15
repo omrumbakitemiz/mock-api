@@ -1,0 +1,140 @@
+{
+  "engagements": [
+    {
+      "id": 1,
+      "sellerName": "John Doe",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "message": "Hello, I'm interested in your product.",
+      "creationDate": "2023-06-01",
+      "seen": false,
+      "sellerId": 123
+    },
+    {
+      "id": 2,
+      "sellerName": "Jane Smith",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "message": "Hi, I have a question about your services.",
+      "creationDate": "2023-06-02",
+      "seen": true,
+      "sellerId": 456
+    },
+    {
+      "id": 3,
+      "sellerName": "Alex Johnson",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "message": "Interested in discussing a potential collaboration.",
+      "creationDate": "2023-06-03",
+      "seen": false,
+      "sellerId": 789
+    },
+    {
+      "id": 4,
+      "sellerName": "Emma Davis",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "message": "Need assistance with your product installation.",
+      "creationDate": "2023-06-04",
+      "seen": true,
+      "sellerId": 101
+    }
+  ],
+  "engagementDetails": [
+    {
+      "id": 1,
+      "sellerName": "John Doe",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "badges": [
+        {
+          "id": 1,
+          "name": "Top Rated",
+          "imageUrl": "https://picsum.photos/20/20"
+        },
+        {
+          "id": 2,
+          "name": "Pro Verified",
+          "imageUrl": "https://picsum.photos/20/20"
+        }
+      ],
+      "messages": [
+        {
+          "id": 1,
+          "message": "Sure, how can I help you?",
+          "creationDate": "2023-06-01",
+          "title": "Response"
+        },
+        {
+          "id": 2,
+          "message": "Please provide more details about your requirements.",
+          "creationDate": "2023-06-02",
+          "title": "Further inquiry"
+        }
+      ],
+      "creationDate": "2023-06-01",
+      "seen": false,
+      "sellerId": 123,
+      "sellerPoint": 8.1
+    },
+    {
+      "id": 2,
+      "sellerName": "Jane Smith",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "messages": [],
+      "badges": [
+        {
+          "id": 1,
+          "name": "Top Rated",
+          "imageUrl": "https://picsum.photos/20/20"
+        }
+      ],
+      "creationDate": "2023-06-02",
+      "seen": true,
+      "sellerId": 456,
+      "sellerPoint": 6.9
+    },
+    {
+      "id": 3,
+      "sellerName": "Alex Johnson",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "messages": [
+        {
+          "id": 3,
+          "message": "Please share more details about the collaboration opportunity.",
+          "creationDate": "2023-06-03",
+          "title": "Inquiry"
+        }
+      ],
+      "badges": [
+        {
+          "id": 2,
+          "name": "Pro Verified",
+          "imageUrl": "https://picsum.photos/20/20"
+        }
+      ],
+      "creationDate": "2023-06-03",
+      "seen": false,
+      "sellerId": 789,
+      "sellerPoint": 9.2
+    },
+    {
+      "id": 4,
+      "sellerName": "Emma Davis",
+      "sellerImageUrl": "https://picsum.photos/50/50",
+      "messages": [],
+      "badges": [
+        {
+          "id": 1,
+          "name": "Top Rated",
+          "imageUrl": "https://picsum.photos/20/20"
+        },
+        {
+          "id": 3,
+          "name": "Certified",
+          "imageUrl": "https://picsum.photos/20/20"
+        }
+      ],
+      "creationDate": "2023-06-04",
+      "seen": true,
+      "sellerId": 101,
+      "sellerPoint": 7.8
+    }
+  ]
+}

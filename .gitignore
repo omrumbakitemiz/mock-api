@@ -1,0 +1,17 @@
+# Dependency directories
+/node_modules
+
+# Build output
+/dist
+
+# IDE and editor files
+.idea
+.vscode
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+[Tt]humbs.db
+[Tt]rashes
+*.swp
