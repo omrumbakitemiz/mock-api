@@ -10,11 +10,13 @@ export interface Engagement {
 
 export interface EngagementMessage {
   id: number;
-  message: string;
+  text: string;
   creationDate: string;
   title: string;
+  ctaText: string;
+  ctaRedirectUrl?: string;
+  type: 'coupon' | 'message';
 }
-
 export interface SellerBadge {
   id: number;
   name: string;

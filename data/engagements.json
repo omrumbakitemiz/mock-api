@@ -1,140 +1,473 @@
 {
-  "engagements": [
+  "messages": {
+    "content": [
+      {
+        "sellerId": 54374573,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 456756756,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 65787676,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 3457457,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 23452435,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 456756745,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 24263246,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 125745,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 46585856,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 770578,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 5976695,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 26868642,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 567956795,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 546856856,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 657956796,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 1235523,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 145651512,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 324727,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 3147347,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 83456845,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 2547245,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 1346134671,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 234573,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 3457473,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 4569869845,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 45688,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 14173471,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 3246723,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 834588,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 13461,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 166616,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 23462347,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 23462346,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 3417345,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 1713477,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 234634234,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 45685684,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 34262346,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      },
+      {
+        "sellerId": 435745735474,
+        "sellerName": "Mp Seller test forstorefrontAZ",
+        "sellerImage": "/seller-store/uploads/770578/logo.jpeg",
+        "description": "Yeni Kupon Kazandın 🎫🤩",
+        "dateTime": 1692369530493,
+        "seen": true
+      }
+    ]
+  },
+  "messagesDetails": [
     {
-      "id": 1,
-      "sellerName": "John Doe",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "message": "Hello, I'm interested in your product.",
-      "creationDate": "2023-06-01",
-      "seen": false,
-      "sellerId": 123
+      "seller": {
+        "id": 1,
+        "name": "John Doe",
+        "image": "https://picsum.photos/50/50",
+        "score": 4.5,
+        "badges": [
+          {
+            "name": "Top Rated",
+            "url": "https://picsum.photos/20/20"
+          },
+          {
+            "name": "Pro Verified",
+            "url": "https://picsum.photos/20/20"
+          }
+        ]
+      },
+      "messages": [
+        {
+          "id": 1,
+          "description": "Hello, I'm interested in your product.",
+          "dateTime": 1688226291,
+          "messageBody": "Hello, I'm interested in your product.",
+          "seen": false
+        }
+      ]
     },
     {
-      "id": 2,
-      "sellerName": "Jane Smith",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "message": "Hi, I have a question about your services.",
-      "creationDate": "2023-06-02",
-      "seen": true,
-      "sellerId": 456
+      "seller": {
+        "id": 2,
+        "name": "Jane Smith",
+        "image": "https://picsum.photos/50/50",
+        "score": 4.2,
+        "badges": [
+          {
+            "name": "Verified Seller",
+            "url": "https://picsum.photos/20/20"
+          },
+          {
+            "name": "Fast Shipping",
+            "url": "https://picsum.photos/20/20"
+          }
+        ]
+      },
+      "messages": [
+        {
+          "id": 2,
+          "description": "Hi, I have a question about the product's warranty.",
+          "dateTime": 1688226305,
+          "messageBody": "Hi, I have a question about the product's warranty.",
+          "seen": true
+        },
+        {
+          "id": 3,
+          "description": "Can you provide more details about the product's specifications?",
+          "dateTime": 1688226312,
+          "messageBody": "Can you provide more details about the product's specifications?",
+          "seen": false
+        }
+      ]
     },
     {
-      "id": 3,
-      "sellerName": "Alex Johnson",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "message": "Interested in discussing a potential collaboration.",
-      "creationDate": "2023-06-03",
-      "seen": false,
-      "sellerId": 789
+      "seller": {
+        "id": 3,
+        "name": "Sarah Johnson",
+        "image": "https://picsum.photos/50/50",
+        "score": 4.8,
+        "badges": [
+          {
+            "name": "Top Seller",
+            "url": "https://picsum.photos/20/20"
+          },
+          {
+            "name": "Responsive",
+            "url": "https://picsum.photos/20/20"
+          }
+        ]
+      },
+      "messages": [
+        {
+          "id": 4,
+          "description": "Hi, is the product available in different colors?",
+          "dateTime": 1688226326,
+          "messageBody": "Hi, is the product available in different colors?",
+          "seen": true
+        },
+        {
+          "id": 5,
+          "description": "Do you offer any discounts for bulk purchases?",
+          "dateTime": 1688226334,
+          "messageBody": "Do you offer any discounts for bulk purchases?",
+          "seen": false
+        },
+        {
+          "id": 6,
+          "description": "Could you provide the dimensions of the product?",
+          "dateTime": 1688226342,
+          "messageBody": "Could you provide the dimensions of the product?",
+          "seen": false
+        }
+      ]
     },
     {
-      "id": 4,
-      "sellerName": "Emma Davis",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "message": "Need assistance with your product installation.",
-      "creationDate": "2023-06-04",
-      "seen": true,
-      "sellerId": 101
+      "seller": {
+        "id": 4,
+        "name": "Michael Anderson",
+        "image": "https://picsum.photos/50/50",
+        "score": 4.6,
+        "badges": [
+          {
+            "name": "Experienced Seller",
+            "url": "https://picsum.photos/20/20"
+          }
+        ]
+      },
+      "messages": [
+        {
+          "id": 7,
+          "description": "Hello, I'm interested in purchasing multiple quantities.",
+          "dateTime": 1688226355,
+          "messageBody": "Hello, I'm interested in purchasing multiple quantities.",
+          "seen": false
+        },
+        {
+          "id": 8,
+          "description": "Can you provide the estimated delivery time?",
+          "dateTime": 1688226362,
+          "messageBody": "Can you provide the estimated delivery time?",
+          "seen": false
+        },
+        {
+          "id": 9,
+          "description": "What payment methods do you accept?",
+          "dateTime": 1688226369,
+          "messageBody": "What payment methods do you accept?",
+          "seen": false
+        },
+        {
+          "id": 10,
+          "description": "Is there a warranty included with the product?",
+          "dateTime": 1688226376,
+          "messageBody": "Is there a warranty included with the product?",
+          "seen": false
+        }
+      ]
     }
   ],
-  "engagementDetails": [
-    {
-      "id": 1,
-      "sellerName": "John Doe",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "badges": [
-        {
-          "id": 1,
-          "name": "Top Rated",
-          "imageUrl": "https://picsum.photos/20/20"
-        },
-        {
-          "id": 2,
-          "name": "Pro Verified",
-          "imageUrl": "https://picsum.photos/20/20"
-        }
-      ],
-      "messages": [
-        {
-          "id": 1,
-          "message": "Sure, how can I help you?",
-          "creationDate": "2023-06-01",
-          "title": "Response"
-        },
-        {
-          "id": 2,
-          "message": "Please provide more details about your requirements.",
-          "creationDate": "2023-06-02",
-          "title": "Further inquiry"
-        }
-      ],
-      "creationDate": "2023-06-01",
-      "seen": false,
+  "unseenMessagesCount": {
+    "totalCount": 10,
+    "countPerSeller": {
       "sellerId": 123,
-      "sellerPoint": 8.1
-    },
-    {
-      "id": 2,
-      "sellerName": "Jane Smith",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "messages": [],
-      "badges": [
-        {
-          "id": 1,
-          "name": "Top Rated",
-          "imageUrl": "https://picsum.photos/20/20"
-        }
-      ],
-      "creationDate": "2023-06-02",
-      "seen": true,
-      "sellerId": 456,
-      "sellerPoint": 6.9
-    },
-    {
-      "id": 3,
-      "sellerName": "Alex Johnson",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "messages": [
-        {
-          "id": 3,
-          "message": "Please share more details about the collaboration opportunity.",
-          "creationDate": "2023-06-03",
-          "title": "Inquiry"
-        }
-      ],
-      "badges": [
-        {
-          "id": 2,
-          "name": "Pro Verified",
-          "imageUrl": "https://picsum.photos/20/20"
-        }
-      ],
-      "creationDate": "2023-06-03",
-      "seen": false,
-      "sellerId": 789,
-      "sellerPoint": 9.2
-    },
-    {
-      "id": 4,
-      "sellerName": "Emma Davis",
-      "sellerImageUrl": "https://picsum.photos/50/50",
-      "messages": [],
-      "badges": [
-        {
-          "id": 1,
-          "name": "Top Rated",
-          "imageUrl": "https://picsum.photos/20/20"
-        },
-        {
-          "id": 3,
-          "name": "Certified",
-          "imageUrl": "https://picsum.photos/20/20"
-        }
-      ],
-      "creationDate": "2023-06-04",
-      "seen": true,
-      "sellerId": 101,
-      "sellerPoint": 7.8
+      "count": 10
     }
-  ]
+  }
 }
